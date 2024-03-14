@@ -8,3 +8,6 @@ Steps involved in this model are:
 In Text preprocessing phases:
 removing any unnecessary character from the text are removed which don't help us to find the sentiment of the input like stopwords like: a,an,the,.... 
 , any character which are not the part of english alphabets and converting the full string into lower letters 
+
+Naive Bayes classification model is used to train and make prediction i which Sparsed matrix is feeded to train the model 
+
